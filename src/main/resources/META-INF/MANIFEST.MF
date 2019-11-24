@@ -1,0 +1,2 @@
+Premain-Class: top.fomeiherz.PerfMonAgent
+Boot-Class-Path: C:/Users/Administrator/.m2/repository/javassist/javassist/3.8.0.GA/javassist-3.8.0.GA.jar
